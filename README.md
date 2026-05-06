@@ -10,10 +10,25 @@ Entry-level DC Ops Engineer based in Saudi Arabia. CS/IT/AI background. Working 
 
 ## Topics
 
-- [Physical Infrastructure](./01-physical-infrastructure.md)
+- [01 — Physical Infrastructure](./01-physical-infrastructure.md) — white/grey space, raised floor, cabling, racks, containment, PUE, MMR/ODF/TR
+  *Published*
 
-*More notes added as I cover new topics.*
+- [02 — Power Pathway](./02-power-pathway.md) — full power chain from SCECO to PSU
+  *Published*
+
+- [03 — Cooling System](./03-cooling-system.md) — chillers, CRAH, chilled water loop, FAHU, humidity
+  *Published*
+
+- 04 — Networking
+  *Coming soon*
+
+- 05 — DC Operations
+  *Coming soon*
 
 ## Notes
 
 These are study notes, not official documentation. If you spot something wrong, open an issue — I'd rather learn the correct version.
+
+---
+
+*Last updated: 2026-05-06*
