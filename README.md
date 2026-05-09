@@ -19,8 +19,8 @@ Entry-level DC Ops Engineer based in Saudi Arabia. CS/IT/AI background. Working 
 - [03 — Cooling System](./03-cooling-system.md) — chillers, CRAH, chilled water loop, FAHU, humidity
   *Published*
 
-- 04 — Networking
-  *Coming soon*
+- [04 — Network Infrastructure](./04-network-infrastructure.md) — spine/leaf topology, EoR/ToR, patch panels, structured cabling, MMR/ODF/TR, fault tracing
+  *Published*
 
 - 05 — DC Operations
   *Coming soon*
@@ -31,4 +31,4 @@ These are study notes, not official documentation. If you spot something wrong, 
 
 ---
 
-*Last updated: 2026-05-06*
+*Last updated: 2026-05-09*
