@@ -25,6 +25,21 @@ Entry-level DC Ops Engineer based in Saudi Arabia. CS/IT/AI background. Working 
 - 05 — DC Operations
   *Coming soon*
 
+- 06 — Monitoring & DCIM
+  *Coming soon*
+
+- 07 — Security & Access Control
+  *Coming soon*
+
+- 08 — Change Management & Operations
+  *Coming soon*
+
+- 09 — Capacity Planning
+  *Coming soon*
+
+- 10 — Vendor & Hardware
+  *Coming soon*
+
 ## Notes
 
 These are study notes, not official documentation. If you spot something wrong, open an issue — I'd rather learn the correct version.
