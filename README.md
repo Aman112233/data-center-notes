@@ -25,8 +25,8 @@ Entry-level DC Ops Engineer based in Saudi Arabia. CS/IT/AI background. Working 
 - 05 — DC Operations
   *Coming soon*
 
-- 06 — Monitoring & DCIM
-  *Coming soon*
+- [06 — Monitoring & DCIM](./dc-notes/monitoring-dcim.md) — BMS vs DCIM, alarm tiers, SCECO feed loss sequence, PDU dark response, temperature alarm procedure
+  *Published*
 
 - 07 — Security & Access Control
   *Coming soon*
@@ -39,12 +39,6 @@ Entry-level DC Ops Engineer based in Saudi Arabia. CS/IT/AI background. Working 
 
 - 10 — Vendor & Hardware
   *Coming soon*
-
-## DC Notes
-
-Supplementary notes that go deeper on specific topics — procedures, alarm responses, and operational detail.
-
-- [Monitoring & DCIM](./dc-notes/monitoring-dcim.md) — BMS vs DCIM, alarm tiers, SCECO feed loss sequence, PDU dark response, temperature alarm procedure, proactive vs reactive ops
 
 ## Notes
 
