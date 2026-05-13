@@ -22,11 +22,11 @@ Entry-level DC Ops Engineer based in Saudi Arabia. CS/IT/AI background. Working 
 - [04 — Network Infrastructure](./04-network-infrastructure.md) — spine/leaf topology, EoR/ToR, patch panels, structured cabling, MMR/ODF/TR, fault tracing
   *Published*
 
-- 05 — DC Operations
-  *Coming soon*
-
-- [06 — Monitoring & DCIM](./dc-notes/monitoring-dcim.md) — BMS vs DCIM, alarm tiers, SCECO feed loss sequence, PDU dark response, temperature alarm procedure
+- [05 — Monitoring & DCIM](./05-monitoring-dcim.md) — BMS vs DCIM, alarm tiers, SCECO feed loss sequence, PDU dark response, temperature alarm procedure
   *Published*
+
+- 06 — DC Operations
+  *Coming soon*
 
 - 07 — Security & Access Control
   *Coming soon*
